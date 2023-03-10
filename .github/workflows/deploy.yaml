@@ -8,7 +8,7 @@ on:
 env:
   #### BEGIN: BE SURE TO REPLACE THESE VALUES
   S3_BUCKET_NAME: gh-actions-serverless-spark-prod-824852318651
-  OIDC_ROLE_ARN: arn:aws:iam::037238293423:role/gh-actions-oidc-role-037238293423
+  OIDC_ROLE_ARN: arn:aws:iam::824852318651:role/gh-actions-oidc-role-824852318651
   #### END:   BE SURE TO REPLACE THESE VALUES
   AWS_REGION: us-east-1
 
