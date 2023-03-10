@@ -8,7 +8,7 @@ env:
   OIDC_ROLE_ARN: arn:aws:iam::824852318651:role/gh-actions-oidc-role-824852318651
   #### END:   BE SURE TO REPLACE THESE VALUES
   AWS_REGION: us-east-1
-  JOB_VERSION: v0.0.1
+  JOB_VERSION: v0.0.2
 
 on:
   schedule:
